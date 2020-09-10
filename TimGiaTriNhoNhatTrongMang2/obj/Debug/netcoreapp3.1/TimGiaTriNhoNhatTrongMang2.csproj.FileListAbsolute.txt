@@ -1,0 +1,12 @@
+E:\BT C#\TimGiaTriNhoNhatTrongMang2\TimGiaTriNhoNhatTrongMang2\bin\Debug\netcoreapp3.1\TimGiaTriNhoNhatTrongMang2.exe
+E:\BT C#\TimGiaTriNhoNhatTrongMang2\TimGiaTriNhoNhatTrongMang2\bin\Debug\netcoreapp3.1\TimGiaTriNhoNhatTrongMang2.deps.json
+E:\BT C#\TimGiaTriNhoNhatTrongMang2\TimGiaTriNhoNhatTrongMang2\bin\Debug\netcoreapp3.1\TimGiaTriNhoNhatTrongMang2.runtimeconfig.json
+E:\BT C#\TimGiaTriNhoNhatTrongMang2\TimGiaTriNhoNhatTrongMang2\bin\Debug\netcoreapp3.1\TimGiaTriNhoNhatTrongMang2.runtimeconfig.dev.json
+E:\BT C#\TimGiaTriNhoNhatTrongMang2\TimGiaTriNhoNhatTrongMang2\bin\Debug\netcoreapp3.1\TimGiaTriNhoNhatTrongMang2.dll
+E:\BT C#\TimGiaTriNhoNhatTrongMang2\TimGiaTriNhoNhatTrongMang2\bin\Debug\netcoreapp3.1\TimGiaTriNhoNhatTrongMang2.pdb
+E:\BT C#\TimGiaTriNhoNhatTrongMang2\TimGiaTriNhoNhatTrongMang2\obj\Debug\netcoreapp3.1\TimGiaTriNhoNhatTrongMang2.AssemblyInfoInputs.cache
+E:\BT C#\TimGiaTriNhoNhatTrongMang2\TimGiaTriNhoNhatTrongMang2\obj\Debug\netcoreapp3.1\TimGiaTriNhoNhatTrongMang2.AssemblyInfo.cs
+E:\BT C#\TimGiaTriNhoNhatTrongMang2\TimGiaTriNhoNhatTrongMang2\obj\Debug\netcoreapp3.1\TimGiaTriNhoNhatTrongMang2.csproj.CoreCompileInputs.cache
+E:\BT C#\TimGiaTriNhoNhatTrongMang2\TimGiaTriNhoNhatTrongMang2\obj\Debug\netcoreapp3.1\TimGiaTriNhoNhatTrongMang2.dll
+E:\BT C#\TimGiaTriNhoNhatTrongMang2\TimGiaTriNhoNhatTrongMang2\obj\Debug\netcoreapp3.1\TimGiaTriNhoNhatTrongMang2.pdb
+E:\BT C#\TimGiaTriNhoNhatTrongMang2\TimGiaTriNhoNhatTrongMang2\obj\Debug\netcoreapp3.1\TimGiaTriNhoNhatTrongMang2.genruntimeconfig.cache
